@@ -1,4 +1,4 @@
-**#  Nice to meet you, I'm Pim **
+#  ***Nice to meet you, I'm Pim***
 ##  はじめまして 渡し 和 ピム です
 <!--
 **HikaruMG/HikaruMG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
