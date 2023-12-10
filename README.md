@@ -1,10 +1,12 @@
+<!--
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/YS7BctOtlyed2/giphy.gif" />
 </div>
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jiraphat Sritawee
+
+-->
 <div align="center">
-  ![https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/lottie.json]
-  <h1>✨ Hi, My name is Jiraphat Sritawee✨</h1>
+  
+  <h1>![512](https://github.com/HikaruMG/HikaruMG/assets/94214328/7e4e6135-b8d8-4478-8174-439ec65b729b) Hi, My name is Jiraphat Sritawee ![512](https://github.com/HikaruMG/HikaruMG/assets/94214328/7e4e6135-b8d8-4478-8174-439ec65b729b)</h1>
   はじめまして, 私はぴむです。
 </div>
 <br>
