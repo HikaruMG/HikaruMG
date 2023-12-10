@@ -27,7 +27,7 @@
 <br>
 
 <div align='center'>
-  <p style="font-size:20px"> <strong><ins>Skills</ins></strong> </p>
+  <p style="font-size:30px"> <strong>Skills</strong> </p>
 </div>
 <div align='center'>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="50" height="50"/>&nbsp;
