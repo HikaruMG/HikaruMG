@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/YS7BctOtlyed2/giphy.gif" />
 </div>
-
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jiraphat Sritawee
 <div align="center">
   <h1>✨ Nice to meet you, I'm Peem ✨</h1>
   はじめまして, 私はぴむです。
