@@ -4,9 +4,9 @@
 </div>
 
 -->
+![512](https://github.com/HikaruMG/HikaruMG/assets/94214328/7e4e6135-b8d8-4478-8174-439ec65b729b)
 <div align="center">
-  
-  <h1>![512](https://github.com/HikaruMG/HikaruMG/assets/94214328/7e4e6135-b8d8-4478-8174-439ec65b729b) Hi, My name is Jiraphat Sritawee ![512](https://github.com/HikaruMG/HikaruMG/assets/94214328/7e4e6135-b8d8-4478-8174-439ec65b729b)</h1>
+  <h1>Hi, My name is Jiraphat Sritawee</h1>
   はじめまして, 私はぴむです。
 </div>
 <br>
