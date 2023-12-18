@@ -10,16 +10,16 @@
 </div>
 <br>
 <div id="badges" align="center">
-  <a href="https://www.facebook.com/jiraphat.sri/">
+  <a href="www.facebook.com">
   <img src="https://img.shields.io/badge/Facebook-darkblue?style=for-the-badge&logo=facebook&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="www.youtube.com">
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://twitter.com/StevebakerX">
+  <a href="https://twitter.com">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="">
     <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=google&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
@@ -29,7 +29,7 @@
 <br>
 
 <div align='center'>
-  <p style="font-size:30px"> <strong>Skills</strong> </p>
+  <p style="font-size:700px"> <strong>Language and Tools</strong> </p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="50" height="50"/>&nbsp;
