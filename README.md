@@ -57,12 +57,13 @@
 <!--<div align="center">
 📊 Stats <strong>Github</strong>-->
 <div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=HikaruMG&theme=dark&background=000000" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=HikaruMG&show_icons=true&theme=vision-friendly-dark" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HikaruMG&layout=compact&theme=vision-friendly-dark" height="150" alt="languages graph"  />
+  <hr>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HikaruMG&theme=github_dark" height="150" alt="streak graph"  />
 </div>
-
 <div align="center">
+  
 <!--
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HikaruMG&theme=dark&background=000000)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HikaruMG&show_icons=true&theme=vision-friendly-dark)-->
