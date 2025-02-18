@@ -15,9 +15,9 @@
 <div align="center">
   
 🌱 I’m currently learning **AI Deep Learning, Algorithm, DataBase**
-<!-- 
-👯 I’m looking to collaborate on ...
-  
+
+👯 I am a researcher at **ISAAC Laboratory.**
+  <!-- 
 🤔 I’m looking for help with ...
 --> 
 💬 Ask me about **How does AI work?**
