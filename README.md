@@ -76,12 +76,10 @@
   <hr>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HikaruMG&theme=nord_dark" height="150" alt="streak graph"  />
 </div>
-
+<br/>
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-  <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/HikaruMG/HikaruMG/output/github-contribution-grid-snake.svg" />
-  
   <br/><br/><br/>
 </div>
 
