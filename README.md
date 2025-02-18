@@ -4,11 +4,25 @@
 </div>
 
 -->
-<div align="left">
-  <h1>Hi 👋, My name is Jiraphat Sritawee</h1>
+
+<!--   <h1>Hi 👋, My name is Jiraphat Sritawee</h1> -->
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Peem!;" />
+</h1>
 <!--   はじめまして, 私はぴむです。 -->
+<h3 align="center">A Student in Kasetsart University</h3>
+<br/>
+<div align="center">
+  
+🌱 I’m currently learning **AI Deep Learning, Algorithm, DataBase**
+<!-- 
+👯 I’m looking to collaborate on ...
+  
+🤔 I’m looking for help with ...
+--> 
+💬 Ask me about **How does AI work?**
 </div>
-<br>
+<br/>
 <div id="badges" align="center">
 <!--   <a href="www.facebook.com">
   <img src="https://img.shields.io/badge/Facebook-darkblue?style=for-the-badge&logo=facebook&logoColor=white" alt="Youtube Badge"/>
@@ -20,16 +34,17 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a> -->
 <a href="">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+</a>
+<a href="">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=LinkedIn&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </a>
 <a href="">
   <img src="https://img.shields.io/static/v1?message=Portfolio&logo=google&label=&color=001932&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
 </a>
 <a href="">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-<a href="">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-</a>
+
 <!-- <a href="">
   <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=google&logoColor=white" alt="Twitter Badge"/>
 </a> -->
@@ -38,7 +53,6 @@
 <img src="https://komarev.com/ghpvc/?username=HikaruMG&style=flat-square&color=blue" alt="" />
 </div>
 <br>
-
 <!--<div align="center">
 <strong>Language and Tools</strong>
 </div>-->
@@ -57,10 +71,10 @@
 <!--<div align="center">
 📊 Stats <strong>Github</strong>-->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HikaruMG&show_icons=true&theme=vision-friendly-dark" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HikaruMG&layout=compact&theme=vision-friendly-dark" height="150" alt="languages graph"  />
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=HikaruMG&count_private=true&theme=react&border_radius=10" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HikaruMG&layout=compact&theme=react" height="150" alt="languages graph"  />
   <hr>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HikaruMG&theme=github_dark" height="150" alt="streak graph"  />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HikaruMG&theme=nord_dark" height="150" alt="streak graph"  />
 </div>
 <div align="center">
   
