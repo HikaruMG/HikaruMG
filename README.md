@@ -39,7 +39,7 @@
 <a href="">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=LinkedIn&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </a>
-<a href="">
+<a href="https://my-portfolio-mody6xuls-jiraphat-sritawees-projects.vercel.app">
   <img src="https://img.shields.io/static/v1?message=Portfolio&logo=google&label=&color=001932&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
 </a>
 <a href="">
